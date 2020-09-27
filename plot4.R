@@ -1,7 +1,7 @@
 #Exploratory Data Analysis
 #Plot 4
 
-#Plot of Global active power from Household power consumption (2007-02-01 to 2007-02-02)
+#Multiple plots from Household power consumption (2007-02-01 to 2007-02-02)
 
 library(dplyr)
 
